@@ -1,0 +1,157 @@
+[
+  {
+    "source_file": "scripts/transfer_v4_convex.py",
+    "whole_source_sha256": "fcae88ad384ad781c8bffd71e7f7f149dc390a96e45c73ac0dbf0fbc2611d60c",
+    "changes": "relative import paths only"
+  },
+  {
+    "source_file": "scripts/transfer_v4_profile.py",
+    "whole_source_sha256": "1982d340c2e00af7aa2e4257acf0c178d6547d9ebf3a0bc5ef1847c8af609232",
+    "changes": "relative import paths only"
+  },
+  {
+    "source_file": "scripts/transfer_v4_calibration.py",
+    "whole_source_sha256": "11302d8783926ee9c58a51cb3b03410080faad3f5ab22c0c752272ceeeebffa6",
+    "changes": "relative import paths only"
+  },
+  {
+    "source_file": "scripts/transfer_v4_robust_offset.py",
+    "whole_source_sha256": "9b6ca656e79581f78ba44dcc841f1350b2568268904bd585135d63aae034d622",
+    "changes": "relative import paths only"
+  },
+  {
+    "source_file": "scripts/transfer_v2_protocol.py",
+    "symbol": "_block_hash",
+    "source_sha256": "ee0dd8d81cb1a6128e195655a4b486ccbb38a833bbb875973d1b92911ffe3632"
+  },
+  {
+    "source_file": "scripts/transfer_v2_protocol.py",
+    "symbol": "prepare_protocol",
+    "source_sha256": "4cf52cc5896aa5919da1b1c27f1c0480579ac529cce82ee8f51dfd21d8c23edd"
+  },
+  {
+    "source_file": "scripts/transfer_v2_protocol.py",
+    "symbol": "check_protocol",
+    "source_sha256": "0f1ea36fbb01a9e269caa527eb63942710750aa70e4b84e7ac4f095e9675cd03"
+  },
+  {
+    "source_file": "scripts/run_transfer_v4_codesign.py",
+    "symbol": "pair_risks",
+    "source_sha256": "25bdfe22480e7a8bb7742ee6dadc34fdb308f1ac28be29de45647151b8b7f9b3"
+  },
+  {
+    "source_file": "scripts/run_transfer_v4_codesign.py",
+    "symbol": "check_pair",
+    "source_sha256": "5aff26ad893387ea909367791fd075f9eab9aa623c647127a25724787bd14f93"
+  },
+  {
+    "source_file": "scripts/transfer_v4_design.py",
+    "symbol": "forbidden_guard",
+    "source_sha256": "e2dedda906385ba69d74f7b8bbb65beda5510dafd9dd4cd3e7a1fb3884abe160"
+  },
+  {
+    "source_file": "scripts/transfer_v4_design.py",
+    "symbol": "pair_scores",
+    "source_sha256": "c5a19e28f3e57a69946da5df99a3ee85c0ecb94b8ca3359cd26429af044707fc"
+  },
+  {
+    "source_file": "scripts/transfer_v3_benchmark.py",
+    "symbol": "positive",
+    "source_sha256": "16997350574f98b3c2c7e3b2c78d6d7306971ac35c84f079f80e6389d397232b"
+  },
+  {
+    "source_file": "scripts/transfer_v3_benchmark.py",
+    "symbol": "metric_sums",
+    "source_sha256": "b87726fc3220ed14d0035b654883f3c152e9b1080c17d307c56a41673e9c6902"
+  },
+  {
+    "source_file": "scripts/transfer_v3_benchmark.py",
+    "symbol": "derive",
+    "source_sha256": "e3f62e5492b93a56dce9800465d8b7d7745bb8131ed32ee097b58ab802835dec"
+  },
+  {
+    "source_file": "scripts/transfer_v3_benchmark.py",
+    "symbol": "get_predictions",
+    "source_sha256": "6e343f61b78778945363eb6523527bd1c30ac12fec5951d81661ca11a95276ec"
+  },
+  {
+    "source_file": "scripts/transfer_v4_noise_stress.py",
+    "symbol": "operators",
+    "source_sha256": "7d384eb7f90377db28031afbb6a7f55219e8f81c1863d4c03c65b097fda7a476"
+  },
+  {
+    "source_file": "scripts/transfer_v4_benchmark.py",
+    "symbol": "predict",
+    "source_sha256": "6cbb8ba5a9f1dae323aaa142f0f1a4297d52be063db435d14d93382c07217847"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "preprocessor",
+    "source_sha256": "b05fd0f5dc1488b924c56da4e7ce3a6e244bcfbdca6a38a80bb153f2f82b2fac"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "make_model",
+    "source_sha256": "18334d6012c518a5a07989193936d08f0fa3c4c8d2829ab4a677d441a7be0b3b"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "fit_with_groups",
+    "source_sha256": "e7661b5400e8e9424922075a98fa5cac5f2c9d0512d3e5fe8fcfedae460cd7ad"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "RankStableOLS",
+    "source_sha256": "50c48931b77e745d84cd17913244eb8a84b4de791269b51ddcaed0f23fc1f1cd"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "MaterialCrossfitConvexStack",
+    "source_sha256": "659bb1c77720f44d782114f1df8b477e6de7206c36ea576a921e1f0ed5d7f02f"
+  },
+  {
+    "source_file": "scripts/transfer_v3_sources.py",
+    "symbol": "q_predictions",
+    "source_sha256": "5589feeacad7f432d0a9c4b5e50a8dca43e27ad9745e4f88c8bfaf4446a696fd"
+  },
+  {
+    "source_file": "scripts/transfer_v2_sources.py",
+    "symbol": "make_model",
+    "source_sha256": "0def0e34842b8f9a90d8b1061231cdb8aa88dd84d77277407fa1bd8fc3679a23"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "seed_all",
+    "source_sha256": "3dc000a288e672f32f0f458bffe9b91cb370ddb18ab17e47b647aa10333677d3"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "Encoder",
+    "source_sha256": "15deffd5028972203b1853d41c39d37044d5014958a1bb1306d15dd38ba04447"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "AuthorAttention",
+    "source_sha256": "1140a5baef2b7298c0041d0594038c6c2ac85c4d92dcfe4e25a075d87d3b9727"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "AuthorBlock",
+    "source_sha256": "b59624c1cc67a7b44b8c8779ca3d558667ed75a5174333bc382c5b483f7a545e"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "AuthorFTPort",
+    "source_sha256": "f0cb3603066e7822e299e11cb6f1649917dac8d1cc8ce52303725588a7266f93"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "predict_log",
+    "source_sha256": "ad8d574e8d8f1282b37b210f2ff66102e443a0e99e95c46817f160bdd169a074"
+  },
+  {
+    "source_file": "scripts/transfer_v2_ft.py",
+    "symbol": "fit_model",
+    "source_sha256": "061cb128fc4601a88dcb513537d9d18e91231a550bc9e80b9062fde4600bd565"
+  }
+]
